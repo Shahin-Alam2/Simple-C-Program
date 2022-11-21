@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560098247 source:c:\users\lenovo\desktop\programing\c\subeen\ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1560097935 source:c:\users\lenovo\desktop\programing\c\subeen\ascii\casechange1.c
+	<stdio.h>
+
