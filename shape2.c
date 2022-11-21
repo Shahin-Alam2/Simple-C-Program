@@ -1,21 +1,15 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int main()
 {
-        int i,j,k,n,m;
-    scanf("%d",&n);
-        m=2*n-1;
-    for(i=m;i>0;i--){
-
-        for(k=i;k<=m;k++){
-
-            if(k>n){
-                    printf("C");
-
-            }
+    int i,j,n,ara[3][5];
+    for(i=7;i>0;i--){
+        for(j=0;j<=i;j=j+2){
+            printf("%d\t",j);
 
         }
-         printf("\n");
+        printf("\n");
     }
+
+
     return 0;
 }
